@@ -1,0 +1,515 @@
+body {
+	background: #FFFFFF;
+	color: #FFFFFF;
+	margin: 0;
+	font-family: Trebuchet MS, Arial, Times New Roman;
+	font-size: 12px;
+}
+ 
+#container {
+	background: #FFFFFF;           
+	width: 100%;
+	height: 100%;
+}
+ 
+#header {			
+	background-image: url('Aircraft-Sky-Clouds-HD-Wallpaper.jpg');
+	background-position: center center;			
+	text-align: center center;
+	font-family: Century Gothic;
+	font-size: 24px;
+	color: #1C1C1C;	
+	height: 600px;
+	width: 100%;
+}
+#header1 {			
+	background-image: url('winter_forest_panorama_by_sm00keh.jpg');
+	background-position: center center;	
+	text-shadow: 1px 1px 1px black;			
+	text-align: center center;
+	font-family: Century Gothic;
+	font-size: 24px;
+	color: #FFFFFF;	
+	height: 300px;
+	width: 100%;
+}
+.shadowtext {
+    text-shadow: 1px 1px 2px black, 0 0 1em #fff; /* Параметры тени */
+    color: white; /* Белый цвет текста */    
+ }
+#qwest1 {			
+	background-image: url('tumblr_static_300213.jpg');
+	background-position: center center;			
+	text-align: center center;
+	font-family: Century Gothic;
+	text-shadow: 1px 1px 1px black;
+	font-size: 24px;
+	color: #FFFFFF;	
+	height: 700px;
+	width: 100%;
+}
+#qwest2 {			
+	background-image: url('p112203-w_1.jpg');
+	text-shadow: 1px 1px 1px black;
+	background-position: center center;			
+	text-align: center center;
+	font-family: Century Gothic;			
+	font-size: 24px;
+	color: #FFFFFF;	
+	height: 620px;
+	width: 100%;
+}
+ 
+#navigation {
+	background: #1C1C1C;			
+	width: 100%;
+	height: 70px;			
+	font-family: Broadway;
+	font-size: 30px;
+	color: #F8E6E0;						
+}
+#fieldforbutton1{
+	background: #1C1C1C;
+	width: 100px;
+	height: 70px;
+	margin-left:600px;
+	float: left;
+}
+#fieldforbutton2{
+	background: #1C1C1C;
+	width: 100px;
+	height: 70px;
+	float: left;
+}
+#fieldforbutton4{
+	background: #1C1C1C;
+	width: 300px;
+	height: 70px;
+	float: left;
+}
+#fieldforbutton5{
+	padding:20px;
+	width:300px;
+	color:#FFFFFF;
+	float:left;
+	overflow:hidden;			
+	height: 40px;
+	margin-left:500px;
+	font-family: Century Gothic;
+	font-size: 20px;			
+}
+#fieldforbutton6{
+	padding:20px;
+	width:300px;
+	color:#FFFFFF;
+	float:left;
+	overflow:hidden;			
+	height: 40px;
+	margin-left:100px;
+	font-family: Century Gothic;
+	font-size: 20px;			
+}
+#fieldforbutton3{
+	padding:20px;
+	width:200px;
+	color:#FFFFFF;
+	float:left;
+	overflow:hidden;
+	border: 3px solid #fff;
+	height: 30px;
+	margin-left:545px;
+	margin-top:15px;
+	font-family: Century Gothic;
+	font-size: 20px;
+}
+#fieldforbutton3 .transparency {
+	opacity:0.5;
+	filter:alpha(opacity=50);
+	-moz-opacity: 0.2;
+	-khtml-opacity: 0.2;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+	background-color:#000000;
+	width:340px;
+	height:1500px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:-1;
+} 
+
+#menu {
+	background: #333333;
+	float: left;
+	width: 200px;
+	height: 600px;
+}
+ 
+#content {
+	background: #FFFFFF;
+	float: right; 
+	width: 100%;
+	height: 1000px;
+	font-family: Century Gothic;
+	font-size: 24px;
+}
+#content1 {
+	font-family: Century Gothic;
+	font-size: 24px;
+	background: #CEECF5;
+	float: right; 
+	width: 100%;
+	height: 600px;
+}
+ 
+#clear {
+	clear:both;
+}
+ 
+#footer {
+	background: #1C1C1C;
+	height: 20px;
+	width: 100%;
+	font-family: Century Gothic;
+	font-size: 14px;
+	color: #F8E6E0;	
+}
+A {
+   text-decoration: none; 
+   color: none;
+ } 
+A:hover { 
+		text-decoration: none;     
+		color: none;
+ }  
+ section.flat button {
+	background-color: #1C1C1C;
+	border: none;
+	width: 100px;
+	height: 100%;
+	font-family: Century Gothic;
+	font-size: 14px;
+	color: #F2F2F2;	
+}
+ }  
+ section.flat2 button {
+	background-color: #1C1C1C;
+	border: none;
+	width: 300px;
+	height: 50px;
+	font-family: Century Gothic;
+	font-size: 14px;
+	color: #F2F2F2;	
+}
+#profile {			
+	background: #FFFFFF;	
+	position: absolute; 
+	left: 337; top: 295;
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: #000000;						
+	height: 675px;
+	width: 1012px;
+}
+#block1{			
+	background: #FFFFFF;	
+	position: absolute; 
+	left: 0; top: 1205;			
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: #000000;						
+	height: 300px;
+	width: 100%;
+	float: left;
+}
+
+.image3{
+	 overflow:hidden;
+	 width: 674px;
+	 height:435px;
+	 float: left;
+ }
+ .image1{
+	 overflow:hidden;
+	 width: 337px;
+	 height:225px;
+	 float: left;
+ }
+ .image2{
+	 overflow:hidden;
+	 width: 337px;
+	 height:225px;
+ }
+ .image1 img {
+	 -moz-transition: all 5s ease-out;
+	 -o-transition: all 5s ease-out;
+	 -webkit-transition: all 1s ease-out;
+ }
+ 
+.image1 img:hover{
+	 -webkit-transform: scale(2);
+	 -moz-transform: scale(2);
+	 -o-transform: scale(2);
+ }
+ .image2 img {
+	 -moz-transition: all 5s ease-out;
+	 -o-transition: all 5s ease-out;
+	 -webkit-transition: all 1s ease-out;
+ }
+ 
+.image2 img:hover{
+	 -webkit-transform: scale(2);
+	 -moz-transform: scale(2);
+	 -o-transform: scale(2);
+ }
+ #placeforlog{
+	background: #FFFFFF;
+	position: absolute; 
+	left: 0; top: 220px;
+	bottom: 50px;
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: #000000;						
+	height: 600px;
+	width: 100%; 
+ }
+ #signup {
+    width: 550px;
+    height: 330px;
+    margin: 100px auto 50px auto;
+    padding: 20px;
+    position: relative;
+    background: #fff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAMAAAB883U1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAlQTFRF7+/v7u7u////REBVnAAAAAN0Uk5T//8A18oNQQAAABZJREFUeNpiYGJiYmBiYgRiBhAGCDAAALsAFJhiJ+UAAAAASUVORK5CYII=);
+    border: 1px solid #ccc;
+    border-radius: 3px;  
+}
+
+#signup::before, 
+#signup::after {
+    content: "";
+    position: absolute;
+    bottom: -3px;
+    left: 2px;
+    right: 2px;
+    top: 0;
+    z-index: -1;
+    background: #fff;
+    border: 1px solid #ccc;            
+}
+
+#signup::after {
+    left: 4px;
+    right: 4px;
+    bottom: -5px;
+    z-index: -2;
+    box-shadow: 0 8px 8px -5px rgba(0,0,0,.3);
+}
+#signup h1 {
+    position: relative;
+    font: italic 1em/3.5em Century Gothic;
+    color: #999;
+    text-align: center;
+    margin: 0 0 20px;
+}
+
+#signup h1::before,
+#signup h1::after{
+    content:'';
+    position: absolute;
+    border: 1px solid rgba(0,0,0,.15);
+    top: 10px;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+}
+
+#signup h1::after{
+    top: 0;
+    bottom: 0;
+    left: 10px;
+    right: 10px;
+}
+::-webkit-input-placeholder {
+   color: #bbb;
+}
+
+:-moz-placeholder {
+   color: #bbb;
+}                         
+
+.placeholder{
+    color: #bbb; /* polyfill */
+}        
+
+#signup input{
+    margin: 5px 0;
+    padding: 15px;
+    width: 100%;
+    *width: 518px; /* IE7 and below */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;    
+}
+
+#signup input:focus{
+	outline: 0;
+	border-color: #aaa;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, .3) inset;
+}        
+
+#signup button{
+    margin: 20px 0 0 0;
+    padding: 15px 8px;            
+    width: 100%;
+    cursor: pointer;
+    border: 1px solid #2493FF;
+    overflow: visible;
+    display: inline-block;
+    color: #fff;
+    font: bold 1.4em arial, helvetica;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.4);          
+    background-color: #2493ff;
+    background-image: linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0)); 
+    transition: background-color .2s ease-out;
+    border-radius: 3px;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, .3), 0 1px 0 rgba(255, 255, 255, .5) inset;                                    
+}
+
+#signup button:hover{
+    background-color: #7cbfff;
+    border-color: #7cbfff;
+}
+
+#signup button:active{
+    position: relative;
+    top: 3px;
+    text-shadow: none;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, .3) inset;
+}
+/*Сбросим отступы*/
+.droplink ul,.droplink h3,.droplink h3 a{
+	padding:0;margin:0
+}
+/*Базовая обертка*/
+.droplink {
+	width:145px;
+	font-family: Century Gothic;
+	font-size: 14px;
+	color: #F8E6E0;	
+	position:absolute;
+	top: 10px;
+}
+/*Стиль блока при наведении*/
+.droplink:hover{
+	height:auto;
+	background-color:#3E403D;
+	border:solid 1px #3A3C39
+}
+/*Заголовок в обычном состоянии*/
+.droplink h3 a{
+	text-align:center;
+	width:100%;
+	display:block;
+	padding:12px 0px;
+	color:#999;
+	text-decoration:none
+}
+.droplink h3 a img{border:none}
+/*Стиль для заголовка при наведении*/
+.droplink:hover h3 a {
+	color:#FFF;
+	font-weight:bold;
+	position:absolute
+}
+/*Скрываем список без наведения*/
+.droplink ul{
+	list-style:none;
+	display:none;
+}
+/*Отображаем список при наведении*/
+.droplink:hover ul{
+	display:block;
+	margin-top:40px
+}
+.droplink li{display:block}
+/*Стиль элемента списка*/
+.droplink li a{
+	padding:5px 12px 4px 34px;
+	margin:1px;
+	background-color:#484A47;
+	display:block;
+	color:#FFF;
+	text-decoration:none;
+	font-size:12px;
+	background-repeat:no-repeat;
+	background-position: 10px 3px
+}
+/*Стиль элемента при наведении*/
+.droplink li a:hover{
+	background-color:#fff
+}
+#thumbs { padding-top: 10px; overflow: hidden; }
+#thumbs img, #largeImage {
+    border: 1px solid black;
+    padding: 4px;
+    background-color: white;	
+    cursor: pointer;
+	margin-left: 100px;
+}
+#thumbs img {
+    float: left;
+    margin-right: 6px;
+	margin-left: 20px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+#description {
+    background: black;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 20px;
+    width: 525px;
+    margin: 5px;
+}
+#panel { 
+	position: relative;
+	top: 30px; 
+}
+a.add_images {
+background: url(images/add_images_link.png); 
+/* Путь к файлу с исходным рисунком  */
+display: block; /*  Рисунок как блочный элемент */
+width: 250px; /* Ширина рисунка */
+height: 50px; /*  Высота рисунка */
+text-decoration: none;
+}
+a.add_images:hover {
+background: url(images/add_images_hover.png);
+/* Путь к файлу с заменяемым рисунком  */
+}
+
+.add_images_text
+{
+color: #FF1493;
+font-weight: bold;
+font-size: 16px;
+padding-left: 30px;
+padding-top: 15px;
+}
+
+.input
+{
+border: 1px solid #FF7F00;
+}
+
+.label
+{
+color: #8B0A50;
+}
+
+.img
+{
+width: 150px;
+}
+
+
